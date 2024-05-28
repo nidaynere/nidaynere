@@ -1,4 +1,6 @@
-### looking for inventions on Unity DOTS.
+### gathering information, ideas and doing lots of R&D for the next version of Malignant Survivors.
+![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2783610/extras/malignant.gif)
+
 <!--
 **nidaynere/nidaynere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
