@@ -1,5 +1,5 @@
-### gathering information, ideas and doing lots of R&D for the next version of Malignant Survivors.
-![hippo](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2783610/extras/malignant.gif)
+### gathering information and ideas for the next version of Malignant Survivors.
+https://store.steampowered.com/app/2783610/Malignant_Survivors/
 
 <!--
 **nidaynere/nidaynere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
